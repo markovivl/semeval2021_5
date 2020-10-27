@@ -1,2 +1,2 @@
-# semeval2021_5
+# Toxic spans detection
 My work on toxic substring detection for SemEval2021
